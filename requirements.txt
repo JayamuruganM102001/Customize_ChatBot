@@ -1,2 +1,9 @@
 flask
-your-other-dependencies
+flask
+requests
+numpy
+pandas
+nltk
+scikit-learn
+tensorflow  
+
