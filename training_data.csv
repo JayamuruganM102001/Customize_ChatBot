@@ -1,0 +1,287 @@
+question,answer
+Hi,Hi! How can I assist you today?
+A,"B"
+C,"D"
+E,"F"
+G,"H" 
+I,"@contact Admin"
+U,"@contact Admin"
+Hey,Hello there! How's your day going?
+Hello,Hi! What can I help you with?
+What is AI?,AI stands for Artificial Intelligence a simulation of human intelligence in machines.
+Goodbye,Bye! Have a great day ahead!
+Monish,Hi Monish! How are you doing?
+Bye?,Goodbye ! Have a great day....!😍
+What is Machine Learning?,Machine Learning is a subset of AI where machines learn from data and improve over time.
+Thank you,You're welcome! Always happy to help.
+How are you?,I'm doing great! How can I assist you today?
+What is Python?,Python is a popular programming language known for its simplicity and versatility.
+What is Java?,Java is a versatile programming language designed to be platform-independent.
+I love you?,I Love You To❤️🤞
+What is a computer?,A computer is an electronic device that processes data.
+What is a bug?,A bug is an error flaw failure or fault in a computer program or system that causes it to produce an incorrect or unexpected result or to behave in unintended ways.
+What is debugging?,Debugging is the process of finding and resolving bugs within computer programs software or hardware.
+What is version control?,Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+What is Git?,Git is a distributed version-control system for tracking changes in source code during software development.
+What is a repository?,A repository is a central place where data is stored and managed.
+What is a commit?,A commit is an operation which sends updated source code to the repository making it part of the head revision of that repository.
+What is a branch?,A branch is a version of the repository that diverges from the main working project.
+What is a merge?,A merge is an action taken to integrate changes from one branch into another branch.
+What is a pull request?,A pull request is a method of submitting contributions to a development project.
+What is an API?,API stands for Application Programming Interface a set of programming code that allows data transmission between one software product and another.
+What is an SDK?,SDK stands for Software Development Kit a collection of software development tools in one installable package.
+What is a library?,A library is a collection of prewritten code that users can use to optimize tasks.
+What is a framework?,A framework is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code.
+What is a compiler?,A compiler is a computer program that translates computer code written in one programming language into another language.
+What is an interpreter?,An interpreter is a computer program that directly executes instructions written in a programming or scripting language without previously compiling them into a machine-language program.
+What is a debugger?,A debugger is a computer program used to test and debug other programs.
+What is a database?,A database is an organized collection of structured information or data typically stored electronically in a computer system.
+What is SQL?,SQL stands for Structured Query Language a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS) or for stream processing in a relational data stream management system (RDSMS).
+What is a server?,A server is a computer program or a device that provides functionality for other programs or devices called 'clients'.
+What is a client?,A client is a piece of computer hardware or software that accesses a service made available by a server.
+What is a web server?,A web server is server software or hardware dedicated to running said software that can satisfy World Wide Web client requests.
+What is a file server?,A file server is a computer responsible for the central storage and management of data files so that other computers on the same network can access the files.
+What is an email server?,An email server is a computer system that sends and receives email.
+What is a proxy server?,A proxy server is a server application that acts as an intermediary between a client requesting a resource and a server providing that resource.
+What is a virtual machine?,A virtual machine is an emulation of a computer system.
+What is cloud computing?,Cloud computing is the on-demand availability of computer system resources especially data storage and computing power without direct active management by the user.
+What is cybersecurity?,Cybersecurity is the practice of protecting systems networks and programs from digital attacks.
+What is a firewall?,A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+What is an IP address?,An IP address is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.
+What is a domain name?,A domain name is an identification string that defines a realm of administrative autonomy authority or control within the Internet.
+What is DNS?,DNS stands for Domain Name System the phonebook of the Internet.
+What is a network?,A network is a group of interconnected computers or other devices.
+What is the internet?,The internet is a global computer network providing a variety of information and communication facilities.
+What is a website?,A website is a collection of related web pages containing images videos or other digital assets.
+What is an operating system?,An operating system is the software that supports a computer's basic functions such as scheduling tasks and controlling peripherals.
+What is software?,Software is the programs and other operating information used by a computer.
+What is hardware?,Hardware refers to the physical elements of a computer.
+What is a programming language?,A programming language is a formal language that specifies a set of instructions that can be used to produce various kinds of output.
+What is an algorithm?,An algorithm is a process or set of rules to be followed in calculations or other problem-solving operations.
+What is data science?,Data science is an interdisciplinary field that uses scientific methods processes algorithms and systems to extract knowledge and insights from data.
+What is data analysis?,Data analysis is a process of inspecting cleansing transforming and modeling data with the goal of discovering useful information informing conclusions and supporting decision-making.
+What is data visualization?,Data visualization is the graphical representation of information and data.
+What is a mobile app?,A mobile app is a software application developed specifically for use on small wireless computing devices such as smartphones and tablets.
+What is a video game?,A video game is an electronic game played by manipulating images on a television screen or other visual display.
+What is a social network?,A social network is a dedicated website or other application that enables users to communicate with each other by posting information comments messages images etc.
+What is a search engine?,A search engine is a software system that is designed to carry out web searches.
+What is a browser?,A browser is a software application for retrieving presenting and traversing information resources on the World Wide Web.
+What is a URL?,A URL is the address of a World Wide Web page.
+What is an email?,Email is messages distributed by electronic means from one computer user to one or more recipients via a network.
+What is a password?,A password is a string of characters that allows access to a computer system service or file.
+What is a username?,A username is an identification used by a person with access to a computer network or online service.
+What is a file?,A file is a resource for storing information in a computer program.
+What is a folder?,A folder is a directory for organizing computer files.
+What is a document?,A document is a written drawn presented or memorialized representation of thoughts often the recording of some kind of information.
+What is an image?,An image is a visual representation of something.
+What is a video?,A video is the recording reproducing or broadcasting of moving visual images.
+What is an audio file?,An audio file is a computer file format for storing digital audio data.
+What is a PDF?,PDF stands for Portable Document Format a file format developed by Adobe.
+What is a ZIP file?,A ZIP file is an archive file format that supports lossless data compression.
+What is a spreadsheet?,A spreadsheet is a computer application for organization analysis and storage of data in tabular form.
+What is a presentation?,A presentation is a means of communication which can be adapted to various speaking situations such as talking to a group addressing a meeting or briefing a team.
+What is a word processor?,A word processor is a computer application used for the production of any sort of printable material.
+What is a GPS?,GPS stands for Global Positioning System a satellite-based radionavigation system owned by the United States government.
+What is a QR code?,A QR code is a machine-readable optical label that contains information about the item to which it is attached.
+What is a barcode?,A barcode is an optical machine-readable representation of data relating to the object to which it is attached.
+What is a printer?,A printer is a machine for printing text or pictures onto paper especially one linked to a computer.
+What is a scanner?,A scanner is a device that optically scans images printed text handwriting or an object and converts it to a digital image.
+What is a microphone?,A microphone is an instrument for converting sound waves into electrical energy variations which may then be amplified transmitted or recorded.
+What is a speaker?,A speaker is an electroacoustic transducer that converts an electrical audio signal into a corresponding sound.
+What is a keyboard?,A keyboard is a typewriter-style device which uses an arrangement of buttons or keys to act as mechanical levers or electronic switches.
+What is a mouse?,A mouse is a small handheld input device which controls a computer's cursor or pointer.
+What is a monitor?,A monitor is a device used for displaying video signals.
+What is a CPU?,CPU stands for Central Processing Unit the electronic circuitry within a computer that carries out the instructions of a computer program.
+What is RAM?,RAM stands for Random Access Memory a type of computer memory that can be accessed randomly.
+What is a hard drive?,A hard drive is a data storage device used in computers.
+What is a motherboard?,A motherboard is the main printed circuit board found in general purpose microcomputers and other expandable systems.
+What is a graphics card?,A graphics card is an expansion card which generates a feed of output images to a display.
+What is a power supply?,A power supply is an electrical device that supplies electric power to an electrical load.
+What is a fan?,A fan is a machine with rotating vanes that creates a current of air for cooling or ventilation.
+What is a case?,A case is the enclosure that contains most of the components of a computer.
+What is a port?,A port is an interface between a computer and other peripheral devices or networks.
+What is a cable?,A cable is a group of one or more wires running side by side or bundled which is used to carry high voltage current.
+What is a router?,A router is a networking device that forwards data packets between computer networks.
+What is a modem?,A modem is a device that modulates carrier signals for encoding digital information and demodulates signals for decoding the transmitted information.
+What is a switch?,A switch is a networking device that filters and forwards packets between LAN segments.
+What is a testing environment?,A testing environment is a setup of software and hardware for the teams to execute test cases.
+What is a production environment?,A production environment is the setting where software and other products are actually put into operation for their intended uses by end users.
+What is a staging environment?,A staging environment is a near-exact replica of a production environment for software testing.
+What is a development environment?,A development environment is a set of processes and programming tools used to create the program or software product.
+What is a user interface?,A user interface is the means by which the user and a computer system interact in particular the use of input devices and software.
+What is a user experience?,User experience is a person's emotions and attitudes about using a particular product system or service.
+What is a user story?,A user story is a tool used in Agile software development to capture a description of a software feature from an end-user perspective.
+What is a sprint?,A sprint is a short time-boxed period when a scrum team works to complete a set amount of work.
+What is a backlog?,A backlog is a list of features or tasks that need to be completed in a project.
+What is a scrum?,Scrum is a framework for project management with an emphasis on software development although it has been used in other fields including research sales marketing and advanced technologies.
+What is agile?,Agile software development is an approach to software development under which requirements and solutions evolve through collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s).
+What is a stakeholder?,A stakeholder is a party that has an interest in a company and can either affect or be affected by the business.
+What is a project manager?,A project manager is a professional in the field of project management.
+What is a team?,A team is a group of people with complementary skills who are working together toward a common goal.
+What is a meeting?,A meeting is a gathering of two or more people that has been convened for the purpose of achieving a common goal through verbal interaction.
+What is a presentation?,A presentation is a means of communication which can be adapted to various speaking situations such as talking to a group addressing a meeting or briefing a team.
+What is a report?,A report is an informational document designed to outline and often strategically analyze a situation or problem.
+What is a document?,A document is a written drawn presented or memorialized representation of thoughts often the recording of some kind of information.
+What is a spreadsheet?,A spreadsheet is a computer application for organization analysis and storage of data in tabular form.
+What is a chart?,A chart is a graphical representation of data in which the data is represented by symbols such as bars in a bar chart lines in a line chart or slices in a pie chart.
+What is a graph?,A graph is a pictorial representation of data.
+What is a table?,A table is a means of arranging data in rows and columns.
+What is a form?,A form is a document with spaces in which to write or type.
+What is a survey?,A survey is a list of questions aimed at extracting specific data from a particular group of people.
+What is a poll?,A poll is a survey of public opinion from a particular sample.
+What is feedback?,Feedback is information about reactions to a product a person's performance of a task etc. which is used as a basis for improvement.
+What is a review?,A review is a critical appraisal of a book play film etc. published in a newspaper or journal.
+What is a rating?,A rating is an evaluation or assessment of something in terms of quality or quantity.
+What is a comment?,A comment is a verbal or written remark expressing an opinion or reaction.
+What is a message?,A message is a communication containing some information.
+What is a notification?,A notification is a message that pops up on a mobile device.
+What is an alert?,An alert is a notification that something requires immediate attention.
+What is a warning?,A warning is a statement or event that indicates a possible or impending danger problem or other unpleasant situation.
+What is an error?,An error is a mistake.
+What is a success?,Success is the accomplishment of an aim or purpose.
+What is a failure?,Failure is lack of success.
+What is a problem?,A problem is a matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome.
+What is a solution?,A solution is a means of solving a problem or dealing with a difficult situation.
+What is a task?,A task is a piece of work to be done or undertaken.
+What is a project?,A project is an individual or collaborative enterprise that is carefully planned to achieve a particular aim.
+What is a goal?,A goal is the object of a person's ambition or effort; an aim or desired result.
+What is a plan?,A plan is a detailed proposal for doing or achieving something.
+What is a strategy?,A strategy is a plan of action designed to achieve a long-term or overall aim.
+What is a process?,A process is a series of actions or steps taken in order to achieve a particular end.
+What is a method?,A method is a particular form of procedure for accomplishing or approaching something especially a systematic or established one.
+What is a technique?,A technique is a way of carrying out a particular task especially the execution or performance of an artistic work or a scientific procedure.
+What is a tool?,A tool is an implement or device used in performing a particular kind of work.
+What is a resource?,A resource is a stock or supply of money materials staff and other assets that can be drawn on by a person or organization in order to function effectively.
+What is a budget?,A budget is an estimate of income and expenditure for a set period of time.
+What is a schedule?,A schedule is a plan for carrying out a process or procedure giving lists of intended events and times.
+What is a deadline?,A deadline is a point in time by which something must be done.
+What is a milestone?,A milestone is an action or event marking a significant change or stage in development.
+What is a risk?,A risk is a situation involving exposure to danger.
+What is an opportunity?,An opportunity is a set of circumstances that makes it possible to do something.
+What is a challenge?,A challenge is a call to someone to engage in a contest or competition.
+What is an obstacle?,An obstacle is a thing that blocks one's way or prevents or hinders progress.
+What is a result?,A result is a thing that is caused or produced by something else; a consequence or outcome.
+What is an outcome?,An outcome is the way a thing turns out; a consequence.
+What is an achievement?,An achievement is a thing done successfully typically by effort courage or skill.
+What is a release?,A release is the distribution of a final version of an application.
+What is a patch?,A patch is a piece of software designed to update a computer program or its supporting data to fix or improve it.
+What is a deployment?,Deployment encompasses all the activities that make a software system available for use.
+What is DevOps?,DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
+What is CI/CD?,CI/CD stands for Continuous Integration/Continuous Delivery a set of practices that automate the building testing and deployment of software changes.
+What is containerization?,Containerization is a form of operating system virtualization through which applications are run in isolated user spaces called containers all using the same shared operating system.
+What is Docker?,Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.
+What is Kubernetes?,Kubernetes is an open-source container-orchestration system for automating computer application deployment scaling and management.
+What is microservices?,Microservices are an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs.
+What is a monolith?,A monolith is a single-tiered software application in which the user interface and data access code are combined into a single program from a single platform.
+What is refactoring?,Refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior.
+What is technical debt?,Technical debt is the implied cost of additional rework caused by choosing an easy (short-term) solution now instead of using a better approach which would take longer.
+What is code review?,Code review is systematic examination (often peer review) of computer source code. It is intended to find and fix mistakes overlooked in the initial development phase improving both the overall quality of software and the developers' skills.
+What is pair programming?,Pair programming is an agile software development technique in which two programmers work together at one workstation. One the 'driver' writes code while the other the 'observer' or 'navigator' reviews each line of code as it is typed in.
+What is a sprint review?,A sprint review is a meeting held at the end of a sprint during which the Scrum Team and stakeholders inspect the Increment and make necessary adjustments for future sprints.
+What is a sprint retrospective?,A sprint retrospective is a meeting held at the end of a sprint in Scrum during which the Scrum Team reflects on the past sprint and identifies actions for improvement in future sprints.
+What is a daily standup?,A daily standup (or daily scrum) is a short meeting held each day by a development team to synchronize activities and create plans for the next 24 hours.
+What is a product owner?,A product owner is a professional responsible for maximizing the value of the product resulting from the work of the Development Team.
+What is a scrum master?,A scrum master is a facilitator for an agile development team.
+What is a full-stack developer?,A full-stack developer is a developer or engineer who can build both the front end and the back end of a website application.
+What is a front-end developer?,A front-end developer is a programmer who codes the front end of a website or application.
+What is a back-end developer?,A back-end developer is the programmer who codes the back end of a website or application.
+What is a database administrator (DBA)?,A database administrator (DBA) is a person responsible for the installation configuration upgrade administration monitoring and maintenance of databases in an organization.
+What is a system administrator (sysadmin)?,A system administrator or sysadmin is a person employed to maintain and operate a computer system and/or network.
+What is a network engineer?,A network engineer is a technology professional who has the necessary skills to plan implement and oversee the computer networks that support in-house voice data video and wireless network services.
+What is a quality assurance (QA) engineer?,A quality assurance (QA) engineer is responsible for ensuring the quality of software products by designing and executing tests.
+What is a security engineer?,A security engineer is a professional who designs builds and maintains computer security systems.
+What is a data engineer?,A data engineer is a person whose primary job is to prepare data for analytical or operational uses.
+What is a UI/UX designer?,A UI/UX designer is responsible for designing the user interface (UI) and user experience (UX) of digital products.
+What is a cloud engineer?,A cloud engineer is responsible for overseeing a company's cloud computing systems.
+What is a machine learning engineer?,A machine learning engineer is a person in IT who researches builds and designs self-running artificial intelligence (AI) systems to automate predictive models.
+What is an AI engineer?,An AI engineer is a specialist who develops tests and deploys AI models.
+What is a DevOps engineer?,A DevOps engineer is an IT professional who works to streamline the software development lifecycle by automating and improving the collaboration between development and operations teams.
+What is a site reliability engineer (SRE)?,A site reliability engineer (SRE) is responsible for the availability latency performance efficiency change management monitoring emergency response and capacity planning of their services.
+What is a product manager?,A product manager is a professional who is responsible for the strategy roadmap and feature definition of a product or product line.
+What is a business analyst?,A business analyst is someone who analyzes an organization or business domain (real or hypothetical) and documents its business processes or systems assessing the business model or its integration with technology.
+What is a technical writer?,A technical writer is a person who drafts technical documentation such as instruction manuals how-to guides journal articles and other supporting documents to communicate complex and technical information more easily.
+What is a technical support specialist?,A technical support specialist is a person who provides technical assistance to users of computer systems and software.
+What is a help desk technician?,A help desk technician is responsible for providing technical support to end-users diagnosing and resolving hardware and software issues and documenting support requests.
+What is a system architect?,A system architect defines the architecture of a computer system. This can include hardware software and networking components.
+What is a solution architect?,A solution architect is a professional who designs and oversees the implementation of business-specific solutions.
+What is a enterprise architect?,An enterprise architect is a professional who defines the organization's IT architecture including systems applications and data to support business goals.
+What is a data architect?,A data architect is a practitioner of data architecture a data management discipline concerned with designing creating deploying and managing an organization's data architecture.
+What is a security architect?,A security architect is a professional who designs and oversees the implementation of security systems and protocols.
+What is a cloud architect?,A cloud architect is responsible for designing and implementing cloud computing solutions.
+What is a network architect?,A network architect is responsible for designing and implementing computer networks.
+What is a software architect?,A software architect is a professional who designs and oversees the development of software systems.
+What is a web developer?,A web developer is a programmer who specializes in or is specifically engaged in the development of World Wide Web applications or applications that are run over HTTP from a web server to a web browser.
+What is a mobile developer?,A mobile developer is a software developer who specializes in mobile technology such as the development of applications for mobile devices.
+What is a game developer?,A game developer is a software developer who specializes in video game development the process and related disciplines of creating video games.
+What is an embedded systems developer?,An embedded systems developer is a software engineer who designs and develops software for embedded systems which are computer systems with a dedicated function within a larger mechanical or electrical system often with real-time computing constraints.
+What is a data scientist?,A data scientist is a practitioner who extracts knowledge from data using scientific methods algorithms and processes.
+What is a data analyst?,A data analyst is a person who analyzes data to provide insights and recommendations.
+What is a business intelligence (BI) developer?,A business intelligence (BI) developer is responsible for designing and implementing BI solutions.
+What is a ETL developer?,An ETL developer is responsible for extracting transforming and loading data into data warehouses.
+What is a data warehouse developer?,A data warehouse developer is responsible for designing and implementing data warehouses.
+What is a big data engineer?,A big data engineer is responsible for designing and implementing big data solutions.
+What is a machine learning engineer?,A machine learning engineer is a person in IT who researches builds and designs self-running artificial intelligence (AI) systems to automate predictive models.
+What is an AI developer?,An AI developer is a person who builds and designs artificial intelligence systems.
+What is a natural language processing (NLP) engineer?,A natural language processing (NLP) engineer is a specialist who develops systems that can understand and process human language.
+What is a computer vision engineer?,A computer vision engineer is a specialist who develops systems that can interpret and understand images and videos.
+What is a robotics engineer?,A robotics engineer is a specialist who designs and builds robots.
+What is an automation engineer?,An automation engineer is a specialist who designs and implements automated systems.
+What is a test automation engineer?,A test automation engineer is responsible for automating software testing processes.
+What is a performance engineer?,A performance engineer is responsible for ensuring the performance and scalability of software systems.
+What is a release engineer?,A release engineer is responsible for managing the release process for software products.
+What is a configuration manager?,A configuration manager is responsible for managing the configuration of software and hardware systems.
+What is a build engineer?,A build engineer is responsible for automating the build process for software products.
+What is a continuous integration (CI) engineer?,A continuous integration (CI) engineer is responsible for implementing and maintaining CI systems.
+What is a continuous delivery (CD) engineer?,A continuous delivery (CD) engineer is responsible for implementing and maintaining CD systems.
+What is a cloud security engineer?,A cloud security engineer is responsible for ensuring the security of cloud computing systems.
+What is a security operations center (SOC) analyst?,A security operations center (SOC) analyst is responsible for monitoring and responding to security incidents.
+What is a penetration tester?,A penetration tester is a security professional who attempts to find vulnerabilities in computer systems.
+What is a vulnerability analyst?,A vulnerability analyst is a security professional who identifies and assesses vulnerabilities in computer systems.
+What is a security auditor?,A security auditor is a professional who assesses the security of computer systems and networks.
+What is a security consultant?,A security consultant is a professional who provides advice and guidance on security matters.
+What is a blockchain developer?,A blockchain developer is a software developer who specializes in developing blockchain applications and smart contracts.
+What is a cryptocurrency developer?,A cryptocurrency developer is a software developer who specializes in developing cryptocurrency applications and protocols.
+What is a web3 developer?,A web3 developer is a software developer who builds decentralized applications (dApps) on blockchain platforms.
+What is a smart contract developer?,A smart contract developer is a software developer who writes and deploys smart contracts on blockchain platforms.
+What is a decentralized application (dApp) developer?,A decentralized application (dApp) developer is a software developer who builds applications that run on decentralized networks such as blockchain platforms.
+What is a front-end framework?,A front-end framework is a collection of pre-written code that helps developers build user interfaces for websites and web applications.
+What is a back-end framework?,A back-end framework is a collection of pre-written code that helps developers build the server-side logic for websites and web applications.
+What is a database management system (DBMS)?,A database management system (DBMS) is a software application that interacts with end-users other applications and the database itself to capture and analyze data.
+What is a relational database?,A relational database is a digital database based on the relational model of data as proposed by E. F. Codd in 1970.
+What is a non-relational database (NoSQL)?,A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.
+What is a programming paradigm?,A programming paradigm is a style or 'way' of programming.
+What is object-oriented programming (OOP)?,Object-oriented programming (OOP) is a programming paradigm based on the concept of 'objects' which may contain data in the form of fields often known as attributes; and code in the form of procedures often known as methods.
+What is functional programming?,Functional programming is a programming paradigm—a style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
+What is procedural programming?,Procedural programming is a programming paradigm derived from structured programming based upon the concept of the procedure call.
+What is declarative programming?,Declarative programming is a programming paradigm that expresses the logic of a computation without describing its control flow.
+What is imperative programming?,Imperative programming is a programming paradigm that uses statements that change a program's state.
+What is a programming language?,A programming language is a formal language that specifies a set of instructions that can be used to produce various kinds of output.
+What is Python?,Python is an interpreted high-level general-purpose programming language.
+What is Java?,Java is a high-level class-based object-oriented programming language that is designed to have as few implementation dependencies as possible.
+What is JavaScript?,JavaScript often abbreviated as JS is a programming language that conforms to the ECMAScript specification. JavaScript is high-level often just-in-time compiled and multi-paradigm. It has curly-bracket syntax dynamic typing prototype-based object-orientation and first-class functions.
+What is C++?,C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language or 'C with Classes'.
+What is C#?,C# is a general-purpose multi-paradigm programming language encompassing strong typing imperative declarative functional generic object-oriented (class-based) and component-oriented programming disciplines.
+What is Ruby?,Ruby is an interpreted high-level general-purpose programming language which supports multiple programming paradigms. It was designed and developed in the mid-1990s by Yukihiro 'Matz' Matsumoto in Japan.
+What is PHP?,PHP is a general-purpose scripting language geared toward web development.
+What is Swift?,Swift is a general-purpose multi-paradigm compiled programming language developed by Apple Inc.
+What is Kotlin?,Kotlin is a cross-platform statically typed general-purpose programming language with type inference.
+What is Go?,Go is a statically typed compiled programming language designed at Google by Robert Griesemer Rob Pike and Ken Thompson.
+What is Rust?,Rust is a multi-paradigm general-purpose programming language designed for performance and safety especially safe concurrency.
+What is TypeScript?,TypeScript is a free and open-source programming language developed and maintained by Microsoft. It is a syntactic superset of JavaScript and adds optional static typing to the language.
+What is a microservice architecture?,Microservice architecture—or simply microservices—is an architectural style that structures an application as a collection of small autonomous services modeled around a business domain.
+What is a monolithic architecture?,A monolithic architecture is a traditional unified model for the design of a software program.
+What is a service-oriented architecture (SOA)?,Service-oriented architecture (SOA) is an architectural pattern in computer software design in which application components provide services to other components via a communications protocol over a network.
+What is a serverless architecture?,Serverless computing is a cloud computing execution model in which the cloud provider dynamically manages the allocation of machine resources. Pricing is based on the actual amount of resources consumed by an application rather than on pre-purchased units of capacity.
+What is a message queue?,A message queue is a form of asynchronous service-to-service communication used in serverless and microservices architectures.
+What is a container orchestration?,Container orchestration is the automated arrangement coordination and management of computer systems middleware and services.
+What is a continuous integration (CI) pipeline?,A continuous integration (CI) pipeline is an automated process that builds tests and validates code changes before they are merged into the main codebase.
+What is a continuous delivery (CD) pipeline?,A continuous delivery (CD) pipeline is an automated process that deploys code changes to production or staging environments after they have been built and tested.
+What is infrastructure as code (IaC)?,Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files rather than physical hardware configuration or interactive configuration tools.
+What is a configuration management tool?,A configuration management tool is a software tool used to automate the configuration and management of IT infrastructure.
+What is a monitoring tool?,A monitoring tool is a software application used to monitor the performance and availability of IT systems and applications.
+What is a logging tool?,A logging tool is a software application used to collect and analyze log data from IT systems and applications.
+What is a tracing tool?,A tracing tool is a software application used to trace the execution of requests across distributed systems.
+What is an observability tool?,An observability tool is a software application used to gain insights into the behavior of IT systems and applications.
+What is a security information and event management (SIEM) tool?,A security information and event management (SIEM) tool is a software application used to collect and analyze security logs from IT systems and applications.
+What is a security orchestration automation and response (SOAR) tool?,A security orchestration automation and response (SOAR) tool is a software application used to automate security incident response processes.
+What is a cloud service provider (CSP)?,A cloud service provider (CSP) is a company that offers cloud computing services such as infrastructure as a service (IaaS) platform as
