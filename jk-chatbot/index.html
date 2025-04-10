@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JK Chatbot</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #15027d, #c74c05);
+            margin: 0;
+            overflow: hidden;
+        }
+
+        .chat-container {
+            width: 500px;
+            height: 700px;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            animation: fadeIn 0.5s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .chat-header {
+            background: linear-gradient(to right, #4a00e0, #8e2de2);
+            color: white;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        }
+
+        .chat-box {
+            flex-grow: 1;
+            padding: 20px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .message {
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 20px;
+            max-width: 80%;
+            word-wrap: break-word;
+            opacity: 0;
+            animation: messageFadeIn 0.5s ease-out forwards;
+            display: flex; /* Use flexbox for image and text alignment */
+            align-items: center; /* Align items vertically in the center */
+        }
+
+        @keyframes messageFadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .user-msg {
+            background: #dcf8c6;
+            align-self: flex-end;
+            text-align: right;
+            flex-direction: row-reverse; /* Reverse direction for user messages */
+        }
+
+        .bot-msg {
+            background: #e0e0e0;
+            align-self: flex-start;
+            text-align: left;
+        }
+
+        .message img {
+            width: 40px;
+            height: 40px;
+            margin: 0 10px; /* Add some space around the image */
+        }
+
+        .chat-input {
+            display: flex;
+            padding: 10px;
+            border-top: 1px solid rgba(0, 0, 0, 0.1);
+        }
+
+        #userInput {
+            flex-grow: 1;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            margin-right: 10px;
+        }
+
+        button {
+            background: linear-gradient(to right, #4a00e0, #8e2de2);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        button:hover {
+            background: linear-gradient(to right, #6a11cb, #a74ac7);
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>IT Chatbot</h2>
+        </div>
+        <div class="chat-box" id="chatbox">
+        </div>
+        <div class="chat-input">
+            <input type="text" id="userInput" placeholder="Type your message..." />
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        let messageCounter = 0;
+    
+        function sendMessage() {
+            let userInput = document.getElementById("userInput").value;
+            if (!userInput.trim()) return;
+    
+            displayMessage(userInput, "user-msg");
+    
+            fetch("http://127.0.0.1:5000/chat", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ message: userInput })
+            })
+            .then(response => response.json())
+            .then(data => {
+                displayMessage(data.response, "bot-msg");
+                scrollToBottom(); // Scroll after bot message is added
+            })
+            .catch(error => {
+                console.error("Fetch error:", error);
+                displayMessage("Sorry, I encountered an error.", "bot-msg");
+                scrollToBottom(); // Scroll even in case of error
+            });
+    
+            document.getElementById("userInput").value = "";
+        }
+    
+        function displayMessage(text, className) {
+            let div = document.createElement("div");
+            div.className = "message " + className;
+            div.innerHTML = `<img src='${className === "user-msg" ? "user.png" : "bot.png"}' alt='${className === "user-msg" ? "User" : "Bot"}' style='width: 30px; height: 30px;'> ${text}`;
+            div.style.animationDelay = messageCounter * 0.1 + "s";
+            document.getElementById("chatbox").appendChild(div);
+            messageCounter++;
+        }
+    
+        function scrollToBottom() {
+            const chatbox = document.getElementById("chatbox");
+            chatbox.scrollTop = chatbox.scrollHeight;
+        }
+    
+        document.getElementById("userInput").addEventListener("keypress", function(event) {
+            if (event.key === "Enter") {
+                event.preventDefault();
+                sendMessage();
+            }
+        });
+    
+        // Display the initial "Hi there" message in the correct format
+        displayMessage("Hi there 👋<br>Ask about IT related Q&A<br>How can I help you today?", "bot-msg");
+    </script>
+</body>
+</html>
